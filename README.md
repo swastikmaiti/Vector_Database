@@ -13,5 +13,6 @@ Simulating a Vector Database on CoNaLa dataset.
 
 - ***prepare_data.ipynb:*** Notebook to view the data and perfrom simple Analysis of the Dataset.
 - ***embeddings.ipynb:*** Contain the full code to create embedding using sentence-transformers, vector-database using qdrant and then retrieval based on cosine similarity.
-
+  
+#
 ### If you find the repo helpful, please drop a ⭐
